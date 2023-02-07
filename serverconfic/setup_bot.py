@@ -1,9 +1,8 @@
 '''-----------------------------------------------------------------
-Python Bot "Friedrich Engels" Version 01.02.01
-von Mark Rygielski
+Python Bot Friedrich-Engels-v2.0
+von King of the Light
 
 Stellt nach dem Verbinden des Bott alle wichtige Sachen ein
-
 -----------------------------------------------------------------'''
 import discord
 

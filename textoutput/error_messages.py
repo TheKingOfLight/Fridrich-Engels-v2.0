@@ -1,7 +1,8 @@
 '''-----------------------------------------------------------------
-Python Bot Friedrich Engels-v2.0
+Python Bot Friedrich-Engels-v2.0
+von King of the Light
 
-Enthält alle Error-nachrichten
+Enthält alle Error-Nachrichten
 -----------------------------------------------------------------'''
 
 

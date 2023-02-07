@@ -1,8 +1,10 @@
 '''-----------------------------------------------------------------
-Python Bot "Friedrich Engels" Version 01.02.01
-von Mark Rygielski
+Python Bot Friedrich-Engels-v2.0
+von King of the Light
 
-Enthält alle id's
+Enthält alle Id's
+    -Server
+    -Channel
 -----------------------------------------------------------------'''
 
 

@@ -1,8 +1,8 @@
 '''-----------------------------------------------------------------
-Python Bot "Friedrich Engels" Version 01.01.01
-von Mark Rygielski
+Python Bot Friedrich-Engels-v2.0
+von King of the Light
 
-Enthält alle systemnachrichten
+Enthält alle Systemnachrichten
 -----------------------------------------------------------------'''
 
 

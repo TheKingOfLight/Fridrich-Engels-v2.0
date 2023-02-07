@@ -1,6 +1,5 @@
-# Friedrich-Engels
-Discord Bot von Mark Rygielski
+#Python Bot Friedrich-Engels-v2.0
+von King of the Light
 
 Ziel des Bots:
 MUSIK
-
